@@ -1,0 +1,7 @@
+F:\2nd Semester\OOP\Quiz\SweetestIcecream(2022cs134)\SweetestIcecream(2022cs134)\bin\Debug\SweetestIcecream(2022cs134).exe.config
+F:\2nd Semester\OOP\Quiz\SweetestIcecream(2022cs134)\SweetestIcecream(2022cs134)\bin\Debug\SweetestIcecream(2022cs134).exe
+F:\2nd Semester\OOP\Quiz\SweetestIcecream(2022cs134)\SweetestIcecream(2022cs134)\bin\Debug\SweetestIcecream(2022cs134).pdb
+F:\2nd Semester\OOP\Quiz\SweetestIcecream(2022cs134)\SweetestIcecream(2022cs134)\obj\Debug\SweetestIcecream(2022cs134).csproj.AssemblyReference.cache
+F:\2nd Semester\OOP\Quiz\SweetestIcecream(2022cs134)\SweetestIcecream(2022cs134)\obj\Debug\SweetestIcecream(2022cs134).csproj.CoreCompileInputs.cache
+F:\2nd Semester\OOP\Quiz\SweetestIcecream(2022cs134)\SweetestIcecream(2022cs134)\obj\Debug\SweetestIcecream(2022cs134).exe
+F:\2nd Semester\OOP\Quiz\SweetestIcecream(2022cs134)\SweetestIcecream(2022cs134)\obj\Debug\SweetestIcecream(2022cs134).pdb
